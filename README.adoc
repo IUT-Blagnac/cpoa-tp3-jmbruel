@@ -60,6 +60,7 @@ endif::[]
 
 image:https://sonarcloud.io/api/project_badges/measure?project=IUT-Blagnac_cpoa-tp3-jmbruel&metric=alert_status[Quality Gate Status,link="https://sonarcloud.io/dashboard?id=IUT-Blagnac_cpoa-tp3-jmbruel"]
 image:https://sonarcloud.io/api/project_badges/measure?project=IUT-Blagnac_cpoa-tp3-jmbruel&metric=sqale_index[Technical Debt, link="https://sonarcloud.io/dashboard?id=IUT-Blagnac_cpoa-tp3-jmbruel"]
+image:https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod[Gitpod ready-to-code, link="https://gitpod.io/#https://github.com/IUT-Blagnac/cpoa-tp3-jmbruel"]
 
 ifdef::uk[]
 == {tdnum} initial code
